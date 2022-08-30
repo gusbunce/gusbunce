@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**gusbunce/gusbunce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on implementing OpenXR into [PojavLauncher](https://github.com/QuestCraftPlusPlus/PojavLauncher) to allow usage of Oculus App Lab for QuestCraft!
+- 🌱 I’m currently learning advanced deep learning algorithms to predict the amount of api calls on AWS services to lower costs.
+- 👯 I’m looking to collaborate on anything!!!
+- 🤔 I’m looking for help with why java is sooooooo painful.
+- 💬 Ask me about anything python!
+- 📫 How to reach me: Personal: bunce627@gmail.com | QuestCraft: gusbunce@questcraft.org
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am the one and only gusbunce.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Time for the stats!
+![gusbunce's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusbunce&show_icons=true&theme=dracula)
