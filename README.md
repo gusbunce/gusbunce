@@ -10,5 +10,5 @@
 - ⚡ Fun fact: I am the one and only gusbunce.
 
 ### Time for the stats!
-![gusbunce's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusbunce&show_icons=true&theme=dracula)
+![gusbunce's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusbunce&show_icons=true&theme=dracula&count_private=true)
 
